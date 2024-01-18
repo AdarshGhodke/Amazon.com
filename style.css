@@ -164,7 +164,8 @@ span{
     background-size: cover;
     margin-left: 9.5px;
     height: 320px;
-    width: 1500px;
+    margin-left: 9.5px;
+    margin-right: 9.5px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -318,7 +319,7 @@ span{
     background-size: cover;
     background-repeat: no-repeat;
     height: 250px;
-    width: 1410px;
+    width: 98.5%;
 }
 
 .bigbox2-img:hover{
